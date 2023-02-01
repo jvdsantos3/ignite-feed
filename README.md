@@ -2,6 +2,10 @@
 
 The ignite feed is a project of a static feed page with comments
 
+## Visit the project's deployment at Vercel 
+
+<https://ignite-feed-psi-seven.vercel.app/>
+
 ## Stacks:
 
 * JavaScript
