@@ -16,7 +16,7 @@ const posts = [
         },
         content: [
             { type: 'paragraph', content: 'Fala galeraa 👋', },
-            { type: 'paragraph', content: 'Ei Kasu VTNC!!', },
+            { type: 'paragraph', content: 'Me chamo João Vitor e sou Dev Web', },
             { type: 'link', content: 'https://github.com/jvdsantos3', },
         ],
         publishedAt: new Date('2022-05-03 22:00:00'),
@@ -30,8 +30,22 @@ const posts = [
         },
         content: [
             { type: 'paragraph', content: 'Fala galeraa 👋', },
-            { type: 'paragraph', content: 'Acabei de pegar a ***** 🚀', },
+            { type: 'paragraph', content: 'Me chamo Gustavo e sou Tester 🚀', },
             { type: 'link', content: 'https://github.com/GustavoCassimiro9', },
+        ],
+        publishedAt: new Date('2022-05-10 20:00:00'),
+    },
+    {
+        id: 3,
+        author: {
+            avatarUrl: 'https://github.com/lucasaraujo18.png',
+            name: 'Lucas',
+            role: 'Desenvolvedor Front-End'
+        },
+        content: [
+            { type: 'paragraph', content: 'Fala galeraa 👋', },
+            { type: 'paragraph', content: 'Me chamo Lucas e sou Desenvolvedor Front-End 🚀', },
+            { type: 'link', content: 'https://github.com/lucasaraujo18', },
         ],
         publishedAt: new Date('2022-05-10 20:00:00'),
     }
