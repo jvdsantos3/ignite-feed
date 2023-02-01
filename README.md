@@ -15,6 +15,8 @@ The ignite feed is a project of a static feed page with comments
 
 ## Installation
 
+* Node and NPM required
+
 * Clone the project with 
 
 ```
