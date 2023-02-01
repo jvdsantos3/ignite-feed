@@ -18,6 +18,7 @@ const posts = [
             { type: 'paragraph', content: 'Fala galeraa 👋', },
             { type: 'paragraph', content: 'Me chamo João Vitor e sou Dev Web', },
             { type: 'link', content: 'https://github.com/jvdsantos3', },
+            { type: 'link', content: 'https://www.linkedin.com/in/jvdsantosalcantara/', },
         ],
         publishedAt: new Date('2022-05-03 22:00:00'),
     },
@@ -32,6 +33,7 @@ const posts = [
             { type: 'paragraph', content: 'Fala galeraa 👋', },
             { type: 'paragraph', content: 'Me chamo Gustavo e sou Tester 🚀', },
             { type: 'link', content: 'https://github.com/GustavoCassimiro9', },
+            { type: 'link', content: 'https://www.linkedin.com/in/gustavo-cassimiro-a606451ba/', },
         ],
         publishedAt: new Date('2022-05-10 20:00:00'),
     },
@@ -46,6 +48,7 @@ const posts = [
             { type: 'paragraph', content: 'Fala galeraa 👋', },
             { type: 'paragraph', content: 'Me chamo Lucas e sou Desenvolvedor Front-End 🚀', },
             { type: 'link', content: 'https://github.com/lucasaraujo18', },
+            { type: 'link', content: 'https://www.linkedin.com/in/lucas-de-ara%C3%BAjo-florencio-a0a223229/', },
         ],
         publishedAt: new Date('2022-05-10 20:00:00'),
     }
