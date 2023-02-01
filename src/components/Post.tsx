@@ -26,7 +26,7 @@ interface PostPorps {
 
 export function Post({ author, publishedAt, content }: PostPorps) {
     const [comments, setComments] = useState([
-        'Ei Kasu vtnc'
+        'Olá me chamo João Vitor e sou Desenvolvedor Web.'
     ]);
 
     const [newCommentText, setNewCommentText] = useState('');
