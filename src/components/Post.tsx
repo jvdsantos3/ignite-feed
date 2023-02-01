@@ -25,7 +25,7 @@ interface PostPorps {
 };
 
 export function Post({ author, publishedAt, content }: PostPorps) {
-    const [comments, setComments] = useState([]);
+    const [comments, setComments] = useState<Array<string>>([]);
 
     const [newCommentText, setNewCommentText] = useState('');
 
