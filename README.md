@@ -12,3 +12,23 @@ The ignite feed is a project of a static feed page with comments
 
 * date-fns
 * phosphor-react
+
+## Installation
+
+* Clone the project with 
+
+```
+git clone https://github.com/jvdsantos3/ignite-feed.git
+```
+
+* Install as dependencies with 
+
+```
+npm install
+```
+
+* Start the Vite
+
+```
+npm run dev
+```
