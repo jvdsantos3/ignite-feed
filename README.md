@@ -8,7 +8,6 @@ The ignite feed is a project of a static feed page with comments
 
 ## Stacks:
 
-* JavaScript
 * ReactJS
 * TypeScript
 
@@ -24,13 +23,13 @@ The ignite feed is a project of a static feed page with comments
 * Clone the project with 
 
 ```
-git clone https://github.com/jvdsantos3/ignite-feed.git
+git clone https://github.com/jvdsantos3/todo-reactjs.git
 ```
 
 * Install as dependencies with 
 
 ```
-npm install
+npm install or npm i
 ```
 
 * Start the Vite
